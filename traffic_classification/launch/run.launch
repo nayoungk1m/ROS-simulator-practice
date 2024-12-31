@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="traffic_classification" type="traffic_publisher.py" name="traffic_publisher" output="screen"/>
+    <node pkg="traffic_classification" type="behavior_planner.py" name="behavior_planner" output="screen"/>
+    <node pkg="traffic_classification" type="controller.py" name="controller"/>
+</launch>
+

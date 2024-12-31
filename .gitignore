@@ -1,0 +1,3 @@
+get_GT/traffic_images/
+pedestrian_detection/src/ped_weight.pt
+traffic_classification/src/traffic_weight.pt

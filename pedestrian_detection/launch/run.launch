@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="pedestrian_detection" type="bbox_publisher.py" name="bbox_publisher" output="screen"/>
+    <node pkg="pedestrian_detection" type="behavior_planner.py" name="behavior_planner" output="screen"/>
+    <node pkg="pedestrian_detection" type="controller.py" name="controller"/>
+</launch>
