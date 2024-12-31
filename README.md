@@ -2,7 +2,7 @@
 ROS practice using MORAI simulator  
 
 ## Overview  
-The scenario files, sensor files, network configuration files, and weight files for the models used in the ROS packages are available on [Google Drive](link provided).  
+The scenario files, sensor files, network configuration files, and weight files for the models used in the ROS packages are available on [Google Drive](https://drive.google.com/drive/folders/1yVIHXtS4b5llzoeRquM-bcdDc4H53_MF?usp=sharing).  
 These packages primarily focus on **perception tasks** and are compatible with **ROS1 Noetic**.  
 
 ---
