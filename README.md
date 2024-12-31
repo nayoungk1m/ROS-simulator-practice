@@ -66,4 +66,3 @@ The same workflow applies to the `traffic_classification` package.
 
 ---
 
-With this setup, you're ready to dive into ROS-based perception tasks with the MORAI simulator! Let me know if you'd like further clarifications or help setting things up. 🚀
