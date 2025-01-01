@@ -9,15 +9,12 @@ These packages primarily focus on **perception tasks** and are compatible with *
 
 ## Directory Structure 
 
+```shell
 ROS-simulator-practice/
-
-
-├── get_GT/ &emsp;&emsp;  # Scripts for extracting GT data
-
-├── pedestrian_detection/   &emsp;&emsp;  # ROS package folder for object detection
-
-├── traffic_classification/ &emsp;&emsp;  # ROS package folder for image classification
-
+├── get_GT/   # Scripts for extracting GT data
+├── pedestrian_detection/    # ROS package folder for object detection
+├── traffic_classification/     # ROS package folder for image classification
+```
 ---
 
 ## Directory Details  
